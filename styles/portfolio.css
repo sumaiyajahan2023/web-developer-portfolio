@@ -51,13 +51,15 @@ nav a{
 background-color: #FFF8F3;
 
  }
+ .title{
+   justify-content: flex-start; 
+ }
  .banner{
     padding: 30px 30px 30px 150px;
     display: flex;
     align-items: center;
  }
  .banner .profile_pic{
-    display: flex;
     width: 500px;
  }
  
